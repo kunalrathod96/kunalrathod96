@@ -7,7 +7,7 @@ techniques using tools like SQL, R, Python.</h3>
 - 🌱 I’m currently learning **ML Algorithm **
 
 - 📫 How to reach me **kunalrathod.it@gmail.com**
-- [SQL Projects](https://github.com/kunalrathod96/Sql-Projects))
+- [Projects in SQL](https://github.com/kunalrathod96/Sql-Projects)
 
 
 <h3 align="left">Connect with me:</h3>
