@@ -8,7 +8,7 @@ techniques using tools like SQL, R, Python.</h3>
 
 - 📫 How to reach me **kunalrathod.it@gmail.com**
 - [Projects in SQL](https://github.com/kunalrathod96/Sql-Projects)
-- [Projects in R](https://github.com/kunalrathod96/Projects-with-R)
+- [Projects in R](https://github.com/kunalrathod96/Projects-with-R-)
 - [Projects in Python](https://github.com/kunalrathod96/projects-with-python)
 
 
