@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kunal Rathod</h1>
+<h1 align="center">Hi ![HiSmileGIF](https://user-images.githubusercontent.com/118900457/227784408-ee9bf581-cefc-4b7a-b122-a46c6961251c.gif)
+, I'm Kunal Rathod</h1>
 <h3 align="center">I'm a motivated and detail-oriented Data Analytics Enthusiast. I have experience in generating precise measurement
 reports using various GIS tools. Knowledge of spatial analysis, as well as self-developed skills in data visualization and data analysis
 techniques using tools like SQL, R, Python.</h3>
