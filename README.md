@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Rathod</h1>
-<h3 align="center">I'm a motivated and detail-oriented GIS Technician with a passion for Data Analytics. Experienced in generating precise measurement
+<h3 align="center">I'm a motivated and detail-oriented Data Analytics Enthusiast. I have experience in generating precise measurement
 reports using various GIS tools. Knowledge of spatial analysis, as well as self-developed skills in data visualization and data analysis
 techniques using tools like SQL, R, Python.</h3>
 
