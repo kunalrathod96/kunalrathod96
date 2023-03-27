@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kunal Rathod</h1>
 <h3 align="center">I'm a motivated and detail-oriented Data Analytics Enthusiast. I have experience in generating precise measurement
 reports using various GIS tools. Knowledge of spatial analysis, as well as self-developed skills in data visualization and data analysis
-techniques using tools like SQL, R, Python.</h3>
+techniques using tools like SQL, R, Python,Power BI.</h3>
 
 
 - 🌱 I’m currently learning **ML Algorithm **
