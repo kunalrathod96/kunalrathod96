@@ -9,7 +9,7 @@ creating interactive and visually appealing Performance Measurement reports and 
 - 📄 [Projects in SQL](https://github.com/kunalrathod96/Sql-Projects)
 - 📄 [Projects in R](https://github.com/kunalrathod96/Projects-with-R-)
 - 📄 [Projects in Python](https://github.com/kunalrathod96/projects-with-python)
-- 📄 [Cognizant AI Virtual Experience program]([https://github.com/kunalrathod96/projects-with-python](https://github.com/kunalrathod96/Cognizant--EDA-ML-model-development-algorithm-production-Virtual-experience-program))
+- 📄 [Cognizant AI Virtual Experience program](https://github.com/kunalrathod96/Cognizant--EDA-ML-model-development-algorithm-production-Virtual-experience-program)
 
 
 <h3 align="left">Connect with me:</h3>
