@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Kunal Rathod</h1>
-<h3 align="center">I'm a Data driven and detail oriented Reports Tech with 1+ years of extensive experience and background in collecting and analyzing data,
+<h3 align="center">I'm a Data driven and detail oriented Reports Tech with 2 years of extensive experience and background in collecting and analyzing data,
 creating interactive and visually appealing Performance Measurement reports and dashboards utlizing Power BI, SQL, R programming, Statistical Methods.</h3>
 
 
